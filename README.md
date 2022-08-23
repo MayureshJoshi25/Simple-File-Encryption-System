@@ -5,12 +5,14 @@ This system requires the installation of the Crypto++ Library for some functions
 
 The flow of the project starts with the user entering or inputting a file (text file) into the system. After that the user will be prompted to select between the 3 encryption schemes (Character based, AES and RSA) to be applied to the file in order to encrypt it. After encrypting the required file, the user can choose to decrypt it.
 
-Flow:
+## *Flow:*
 
 
 ![Picture1](https://user-images.githubusercontent.com/60180388/186090294-07b34fe0-8087-4f96-86df-87599a1df8d5.png)
 
 
-Here, fescpp.cpp is the main file that accepts a test file named test.txt.
-An encypted file named tmp.txt s obtained.
-Decryption facility also available.
+- Here, **fescpp.cpp** is the main file that accepts a test file named **test.txt**.
+
+- An encypted file named **tmp.txt** is obtained.
+
+- Encryption facility is also available.
