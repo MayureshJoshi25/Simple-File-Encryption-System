@@ -9,3 +9,8 @@ Flow:
 
 
 ![Picture1](https://user-images.githubusercontent.com/60180388/186090294-07b34fe0-8087-4f96-86df-87599a1df8d5.png)
+
+
+Here, fescpp.cpp is the main file that accepts a test file named test.txt.
+An encypted file named tmp.txt s obtained.
+Decryption facility also available.
